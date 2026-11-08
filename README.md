@@ -19,8 +19,17 @@
 
 </div>
 
-# WARNING: This is AI Vibecode FORK Don't Use In Your Server To Prevent Security Risks
+# ⚠️ Security Warning
 
+This fork includes AI-generated (vibe-coded) modifications,
+particularly the PVP feature.
+
+These modifications have not undergone a complete security
+audit. Do not deploy this fork on production servers until
+the code has been reviewed and tested.
+
+The upstream DeluxeHub project is separate from these
+modifications.
 ## License
 
 This project is licensed under the GNU General Public License v3.0 License - see the [LICENSE](LICENSE) file for details.
